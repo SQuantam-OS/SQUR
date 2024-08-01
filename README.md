@@ -3,7 +3,7 @@ What is the "Super QuantamOS User Repository", The SQUR is the official User Rep
 > So basically the AUR
 - Not exactly
 > what do you mean not exactly
-- all SQUR packages are just are either `.mk` or `.sh` files
+- all SQUR packages are just are either `.mk` or `.sh` files and SQUR packages have a chance to be in the package repository
 # How to get your package on to the SQUR 
 - Fork this repo
 - go inside of that folder
